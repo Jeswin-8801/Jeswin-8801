@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeswin!</h1>
-<h3 align="center">A passion for developing just about anything</h3>
+<h3 align="center">🚀 Launching code rockets toward bug-free galaxies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeswin-8801&label=Profile%20views&color=0e75b6&style=flat" alt="jeswin-8801" /> </p>
 
 🌱 I’m currently learning **Vue and GraphQL**
 
-💬 Ask me about **Springboot, docker and Bash**
+💬 Ask me about **Springboot, Docker and Bash**
 
 📫 How to reach me **jeswin.santosh@outlook.com**
 
