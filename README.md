@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeswin-8801&label=Profile%20views&color=0e75b6&style=flat" alt="jeswin-8801" /> </p>
 
-🌱 I’m currently learning **Vue and GraphQL**
+🌱 I’m currently learning **React and GraphQL**
 
 💬 Ask me about **Springboot, Docker and Bash**
 
