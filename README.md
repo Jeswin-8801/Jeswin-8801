@@ -5,13 +5,13 @@
 
 🌱 I’m currently learning **React and GraphQL**
 
-💬 Ask me about **Springboot, Docker and Bash**
+💬 Ask me about **Springboot, Docker, React and Bash**
 
 📫 How to reach me **jeswin.santosh@outlook.com**
 
-⚡ Fun fact **I definitely did not generate this page in ChatGPT**
+⚡ Fun fact **A lightning bolt is 5 times hotter than the surface of the sun and this is similar to a Nuclear Fusion reactor i.e. compressing and heating ionized particles**
 
-- Most of my projects can be found over @ https://github.com/Jeswin-8802 (unfortunately I am logged out from this account as a result of GitHub's stupid 2FA recovery regulations and can no longer use it, and as a result, I have had to create a new account)
+- Most of my projects can be found over @ https://github.com/Jeswin-8802
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
