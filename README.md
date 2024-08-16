@@ -9,7 +9,7 @@
 
 📫 How to reach me **jeswin.santosh@outlook.com**
 
-⚡ Fun fact **A lightning bolt is 5 times hotter than the surface of the sun and this is similar to a Nuclear Fusion reactor i.e. compressing and heating ionized particles**
+⚡ Fun fact **A lightning bolt is 5 times hotter than the surface of the sun and this is very similar to how a Nuclear Fusion Reactor works i.e. compressing and heating ionized particles**
 
 - Most of my projects can be found over @ https://github.com/Jeswin-8802
 
