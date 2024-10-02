@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeswin!</h1>
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/0b41fe99-eda7-45e6-83a7-132c36c884a0" width=700 height=500 />
+   <img src="https://github.com/user-attachments/assets/0b41fe99-eda7-45e6-83a7-132c36c884a0" width=400 height=300 />
 </div>
 
 <h3 align="center">
